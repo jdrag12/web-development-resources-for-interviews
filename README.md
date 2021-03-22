@@ -38,6 +38,7 @@ List of resources for web development interviews.
 | [Frontend Mentor](https://www.frontendmentor.io/)                                                        | Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs       |
 | [Codewars](https://www.codewars.com/)                                                        | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as katas     |
 | [LeetCode](https://leetcode.com/)                                                        | LeetCode is for software engineers who are looking to practice technical questions and advance their skills. Mastering the questions in each level on LeetCode is a good way to prepare for technical interviews and keep your skills sharp. They also have a repository of solutions with reasoning behind each step     |
+| [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)                                                        | Clash of Code is a game to improve your coding efficiency by solving short programming problems with other people, at the same time. Players share their solution at the end of a game to help other players improve their coding skills.    |
 
 
 
